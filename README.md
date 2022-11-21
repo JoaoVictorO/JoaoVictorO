@@ -6,7 +6,7 @@
 
 🧠 Estou aprendendo - Java Script, e procurando sempre melhorar nas linguagens já aprendidas.
 
-😄 Pronomes Ele/Deles.
+😄 Pronomes Ele/Dele.
 
 <!---
 JoaoVictorO/JoaoVictorO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
