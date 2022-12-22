@@ -1,6 +1,6 @@
 **Olá, eu sou o João Oliveira** :smile:
 
-🚀 Sou um aspirante a desenvolvedor, atualmente sou aluno da Cesar School, mais especificamente do curso NExT. Tenho 23 anos e estou passando por uma transição de carreira :sunglasses:
+🚀 Sou um aspirante a desenvolvedor, atualmente sou graduando em Análise e Desenvolvimento de Sistemas. Sou ex aluno do curso NExT - Cesar School. Tenho 23 anos e estou passando por uma transição de carreira :sunglasses:
 
 🛠 Habilidades - Atualmente tenho domínio sobre Java (POO, Spring Boot) e Python...
 
